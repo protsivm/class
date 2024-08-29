@@ -6,6 +6,7 @@ __pycache__/
 # C extensions
 *.so
 
+# auto created files
 .DS_Store
 desctop.ini
 
